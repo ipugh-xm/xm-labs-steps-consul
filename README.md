@@ -25,7 +25,7 @@ These steps alllow you to get and put values to Consul KV.
 Install the xMatters Agent if needed.
 
 ## xMatters Setup
-1. Download the [Consul.zip](Consul.zip) file onto your local computer
+1. Download the [ConsulSteps.zip](ConsulSteps.zip) file onto your local computer
 2. Navigate to the Workflows tab of your xMatters instance
 3. Click Import, and select the zip file you just downloaded
 4. Create an Endpoint pointed at your Consul instance in xMatters. (This should not include the /v1/ e.g. `127.0.0.1:8500`)
