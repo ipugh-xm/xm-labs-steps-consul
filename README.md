@@ -17,7 +17,7 @@ This integration allows you to use Consul KV in xMatters. It contains two steps,
 * [consul.png](/consul.png) - Consul logo
 
 # How it works
-These steps allow you to get and put values to Consul KV.
+These steps allow you to get and put values to Consul KV. Documentation can be found [here](https://www.consul.io/docs/agent/kv.html)
 
 # Installation
 
