@@ -17,7 +17,7 @@ This integration allows you to use Consul KV in xMatters. It contains two steps,
 * [consul.png](/consul.png) - Consul logo
 
 # How it works
-These steps alllow you to get and put values to Consul KV.
+These steps allow you to get and put values to Consul KV.
 
 # Installation
 
@@ -28,7 +28,7 @@ Install the xMatters Agent if needed.
 1. Download the [ConsulSteps.zip](ConsulSteps.zip) file onto your local computer
 2. Navigate to the Workflows tab of your xMatters instance
 3. Click Import, and select the zip file you just downloaded
-4. Create an Endpoint pointed at your Consul instance in xMatters. (This should not include the /v1/ e.g. `127.0.0.1:8500`)
+4. Create an Endpoint pointed at your Consul instance in xMatters. (This should not include the `/v1/` e.g. `127.0.0.1:8500`)
 
 
 ## Usage
