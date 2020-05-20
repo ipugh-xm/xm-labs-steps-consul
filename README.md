@@ -70,4 +70,6 @@ Install the xMatters Agent if needed.
 
 In the Example Flow **Consul - Get KV** and **Consul - Put KV** Steps are called from HTTP Triggers.
 
+<kbd>
 <img src="media/ExampleFlow.png" />
+</kbd>
